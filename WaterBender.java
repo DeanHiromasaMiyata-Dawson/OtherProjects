@@ -1,5 +1,3 @@
-package com.java.cs1331;
-
 public class WaterBender extends Bender {
     private boolean healer;
 
