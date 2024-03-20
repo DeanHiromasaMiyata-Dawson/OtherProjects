@@ -1,10 +1,3 @@
-/*
- * In order to help learn course concepts,
- * I worked on the homework with Allen Jiang,
- * discussed homework topics and issues with Allen Jiang,
- * and/or consulted related material that ca be found at
- */
-
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
