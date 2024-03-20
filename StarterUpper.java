@@ -18,16 +18,8 @@ import java.util.Collections;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-/*
- * In order to help learn course concepts, I worked on the homework with Allen Jiang,
- * discussed homework topics and issues with Allen Jiang,
- * and/or consulted related material that can be found at stackoverflow.com
- */
-
 /**
  * @Override
- * @author Dean Hiromasa Miyata-Dawson
- * @version 12/3/2023
  * represents a start-up idea
  * extends application super-class
 protected Object clone() throws CloneNotSupportedException {
