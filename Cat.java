@@ -1,14 +1,8 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
 /**
  * This represents a Cat
  * Child class of Pet
  * Implements Treatable interface
  * Instance variable hasStripes - whether this Cat has stripes or not
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
  */
 public class Cat extends Pet implements Treatable {
     private boolean hasStripes;
