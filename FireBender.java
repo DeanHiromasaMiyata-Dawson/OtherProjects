@@ -1,5 +1,3 @@
-package com.java.cs1331;
-
 public class FireBender extends Bender{
     private static double fireSourceStrength = 1;
 
