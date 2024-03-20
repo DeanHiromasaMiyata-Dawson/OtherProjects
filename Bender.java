@@ -1,5 +1,3 @@
-package com.java.cs1331;
-
 public abstract class Bender {
     private String name;
     private int strength;
