@@ -4,8 +4,6 @@ import java.io.PrintWriter;
 import java.util.List;
 
 /**
- * @author CS1331 Fall 2023 TAs
- * @version 1.0
  * This class contains methods to facilitate saving a List of StartUpIdea's to a file
  */
 public class FileUtil {
