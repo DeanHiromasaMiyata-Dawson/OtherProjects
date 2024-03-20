@@ -1,10 +1,5 @@
 /**
- * Node class represents nodes
- * you will use in Linked List
- * @author CS1331 TAs
- * @version 1.0.0
- * @param <T> type of data
- * DO NOT MODIFY!!
+ * Node class represents nodes used in Linked List
  **/
 public class Node<T> {
     private T data;
