@@ -1,14 +1,8 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
 /**
  * This calss represents a Pet
  * Instance variable name - name of this pet
  * Instance variable age - age of this pet (different system depending on species of pet)
  * Instance variable painLevel - painLevel of this pet
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
  */
 public abstract class Pet {
     private String name;
