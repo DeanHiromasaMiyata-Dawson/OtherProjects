@@ -1,11 +1,5 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
- /**
-    * This class represents the Vet
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
+/**
+ * This class represents the vet
  */
 public class Vet {
     /**
