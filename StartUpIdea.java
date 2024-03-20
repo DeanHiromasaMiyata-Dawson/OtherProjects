@@ -1,6 +1,4 @@
 /**
- * @author CS1331 Fall 2023 TAs
- * @version 1.0
  * This class is a wrapper over different traits of a Start-up Idea
  */
 public class StartUpIdea implements Comparable<StartUpIdea> {
