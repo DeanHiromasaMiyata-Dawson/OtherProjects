@@ -1,14 +1,8 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
 /**
  * This class represents a Dog
  * Child class of Pet
  * Implements Treatable interface
  * Instance variable breed - breed of this Dog
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
  */
 public class Dog extends Pet implements Treatable {
     private String breed;
