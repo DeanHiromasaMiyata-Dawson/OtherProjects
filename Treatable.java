@@ -1,11 +1,5 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
 /**
  * This represents an interface Treatable
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
  */
 public interface Treatable {
     /**
