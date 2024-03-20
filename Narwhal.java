@@ -1,13 +1,7 @@
-/*
- * I worked on the homework assignment alone, using only course materials
- */
-
 /**
  * This class represents a Narwhal
  * Child class of Pet
  * Instance variable hornLength - length of the horn of this Narwhal in feet
- * @author Dean Hiromasa Miyata-Dawson
- * @version 10/28/2023
  */
 public class Narwhal extends Pet {
     private int hornLength;
